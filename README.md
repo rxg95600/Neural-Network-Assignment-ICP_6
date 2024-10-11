@@ -2,7 +2,7 @@
 
 NAME: RAMA KRISHNA GANTA ID#: 700759560
 
-VIDEO: 
+VIDEO: https://drive.google.com/file/d/1ifAZQ1_aJd82PPU5eUFq6KGi5ZMfwkQg/view?usp=sharing
 
 1. Add one more hidden layer to autoencoder
 
