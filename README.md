@@ -28,6 +28,9 @@ Output:
 
 Solution: This denoising autoencoder is trained to remove noise from input images. After adding Gaussian noise to the Fashion MNIST dataset, the autoencoder learns to reconstruct clean images. The model uses a 32-dimensional encoding layer and is trained for 20 epochs. Predictions are made on noisy test images, and the results are visualized by comparing noisy inputs with their reconstructed outputs. This showcases the model's ability to denoise and improve image quality.
 
+![image](https://github.com/user-attachments/assets/6f8b95d8-6a0a-421c-9cfe-e9d164c295ca)
+
+
 Output:
 
 ![image](https://github.com/user-attachments/assets/18c4e4ea-8ada-404c-b8c4-617a9f4d581a)
